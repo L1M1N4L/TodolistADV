@@ -161,7 +161,7 @@ function LandingPage({ isAuthenticated }) {
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
                       </svg>
                     </Link>
-                    <Link 
+                    <Link   
                       to="/tour" 
                       className="border border-purple-700/50 text-gray-200 hover:bg-purple-900/20 px-8 py-3 rounded-lg font-medium transition-colors backdrop-blur-sm"
                     >
