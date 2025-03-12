@@ -57,7 +57,7 @@ Live demo: [https://todolist-adv.vercel.app/](https://todolist-adv.vercel.app/)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todolist-app.git
+   git clone https://github.com/L1M1N4L/TodolistADV.git
    cd todolist-app
    ```
 
