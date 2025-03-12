@@ -103,13 +103,13 @@ The default configuration is:
 
 ```javascript
 const firebaseConfig = {
-  apiKey: "AIzaSyBbQxApt1v2mJ3EE2q2dZcxoq0sic5l7Fo",
-  authDomain: "todolist-8d003.firebaseapp.com",
-  projectId: "todolist-8d003",
-  storageBucket: "todolist-8d003.firebasestorage.app",
-  messagingSenderId: "420297605436",
-  appId: "1:420297605436:web:27e9bf6305e2b9c19f1e39",
-  measurementId: "G-J4T78X3CZ5"
+  apiKey: "MYAPIKEY",
+  authDomain: "MYAUTHDOMAIN",
+  projectId: "MYPROJECTID3",
+  storageBucket: "MYSTORAGEBUCKET",
+  messagingSenderId: "MYSENDERID,
+  appId: "MYAPPID",
+  measurementId: "MYMEASUREMENTID"
 };
 ```
 
@@ -131,12 +131,6 @@ const firebaseConfig = {
 ## 🚢 Deployment
 
 This project is already deployed on Vercel at [https://todolist-adv.vercel.app/](https://todolist-adv.vercel.app/)
-
-To deploy your own version:
-
-1. Push your code to a GitHub repository
-2. Import your repository on [Vercel](https://vercel.com)
-3. Deploy!
 
 ## ⚠️ Note on Code Quality
 
