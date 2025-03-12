@@ -17,7 +17,7 @@ Live demo: [https://todolist-adv.vercel.app/](https://todolist-adv.vercel.app/)
 - React.js
 - Vite
 - Firebase (Authentication & Database)
-- CSS for styling
+- Tailwind CSS for styling
 
 ## 📁 Project Structure
 
